@@ -1,4 +1,4 @@
-# Shop Billing System
+
 
 ## Description
 A Python-based billing system that accepts product names, quantities, and unit prices, then generates a formatted bill showing the subtotal, discount, tax, and final amount.
